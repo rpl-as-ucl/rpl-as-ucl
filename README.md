@@ -2,7 +2,7 @@
 
 <img src="https://rpl-as-ucl.github.io/images/logos/rpl-cs-ucl-logo.png" align="center" width="200">
 
-## Limbed Robotics @ University College London (UCL)
+## University College London (UCL)
 
 **The Robot Perception and Learning (RPL) Lab researches robots with limbs (e.g., legged) to function in challenging environments.**
 
