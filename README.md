@@ -1,16 +1,16 @@
-### Hi there 👋
+# [Robot Perception and Learning Lab](https://rpl-as-ucl.github.io/)
 
-<!--
-**rpl-as-ucl/rpl-as-ucl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://rpl-as-ucl.github.io/images/logos/rpl-cs-ucl-logo.png" align="center" width="200">
 
-Here are some ideas to get you started:
+## Limbed Robotics @ University College London (UCL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**The Robot Perception and Learning (RPL) Lab researches robots with limbs (e.g., legged) to function in challenging environments.**
+
+Our research focuses on perception and learning for robotics, and in particular, on new estimation and planning algorithms for mobile and articulated robots that locomote and manipulate in uncertain natural environments. We focus on developing new theoretical results on sensing, real-time map building, and self/environment modeling of surface contact areas which include statistical models of uncertainty, for the purpose of mobile robot navigation, articulated manipulation, and legged locomotion.
+
+
+[Twitter](https://twitter.com/rpl_as_ucl) |
+[YouTube](https://www.youtube.com/channel/UCXFI8v7kLvEUSTu3-qK0b0g) |
+[LinkedIn](https://www.linkedin.com/company/rplucl) |
+[facebook](https://www.facebook.com/RPL.UCL)
+
